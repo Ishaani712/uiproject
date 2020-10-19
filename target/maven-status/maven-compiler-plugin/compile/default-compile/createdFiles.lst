@@ -1,0 +1,4 @@
+sessionVariables\SessionVariables.class
+steps\HomePageSteps.class
+drivers\LocalChromeDriver.class
+pages\HomePage.class
